@@ -41,7 +41,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 -  Occupation: study 
 -  Married, has no child
 ### Education background
-Bachelor degree from Computer Science faculty Kabul university.
+Bachelor degree from Computer Science faculty [Kabul university.](https://ku.edu.af/)
 ### Working experience
 I have six years of working experience as a `web content officer` at Nai Supporting Open Media in Afghanistan, a `Cyber and Information local expert` at the Ministry of Communication and IT of Afghanistan, and as an `IT assistant` at UNESCO Kabul. for the time bieng, I study [with Hack your Futur Belguim](https://github.com/HackYourFutureBelgium) program, which is a web development course for newcomers. 
 ### Future plans
