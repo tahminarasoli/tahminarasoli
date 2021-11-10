@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@thmrasoli](https://twitter.com/thmrasoli);
-- 📝[Resume](https://github.com/tahminarasoli/tahminarasoli/blob/master/Tahmina%20Rasoli-19-7.pdf)
+- 📝[Resume](https://github.com/tahminarasoli/tahminarasoli/blob/master/Tahmina%20Rasoli-30-9.pdf)
 
 <!--END_SECTION:waka-->
 
