@@ -51,7 +51,7 @@
     - a web content officer at Nai Supporting Open Media in Afghanistan,
     - a Cyber and Information local expert at the Ministry of Communication and IT of Afghanistan, and
     - as an IT assistant at UNESCO Kabul.
-- She is also multi-lingual and speaks Arabic, English ,
+- She is also multi-lingual and speaks Dari(mother's tongue), Pashto, Urdo ,English , some Dutch and French.
 - Why did you want to study web development with HYF?
 
   - She is from Afghanistan , a men-dominated country where almost all professions ,including IT, run by men and women suffer a lot to study and work outside home.
