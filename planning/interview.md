@@ -18,27 +18,23 @@
 ## Steps
 
 - [\Tahamina's Home Page](#tahaminas-home-page)
-  - [interview questions](#interview-questions)
+  - [interview questions and Notes](#interview-questions-and-notes)
   - [Steps](#steps)
   - [1. First Interview](#1-first-interview)
     - [Notes](#notes)
     - [Summary](#summary)
   - [2. Follow-Up Interview](#2-follow-up-interview)
-    - [Notes](#notes-1)
-    - [Summary](#summary-1)
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
     - [Insights](#insights)
   - [4. Define the Problem](#4-define-the-problem)
   - [5. Open-Ended Ideation](#5-open-ended-ideation)
   - [6. Partner Feedback](#6-partner-feedback)
-    - [Notes](#notes-2)
-    - [Summary](#summary-2)
   - [7. Plan](#7-plan)
   - [8. Design](#8-design)
   - [9. Final Feedback](#9-final-feedback)
-    - [Notes](#notes-3)
-    - [Summary](#summary-3)
+    - [Notes](#notes-1)
+    - [Summary](#summary-1)
 
 ---
 
@@ -47,28 +43,43 @@
 - So to start, tell me about your job/studies?
   - Tahmina came from Afghanistan, where the IT sector is dominated by men.
   - She has a bachelor degree in Computer science from Kabul University.
-  - She has an extensive technical background and six years of working experience as
+  - She has an extensive technical background and six years of working
+    experience as
     - a web content officer at Nai Supporting Open Media in Afghanistan,
-    - a Cyber and Information local expert at the Ministry of Communication and IT of Afghanistan, and
+    - a Cyber and Information local expert at the Ministry of Communication and
+      IT of Afghanistan, and
     - as an IT assistant at UNESCO Kabul.
-- She is also multi-lingual and speaks Dari(mother's tongue), Pashto, Urdo ,English , some Dutch and French.
+- She is also multi-lingual and speaks Dari(mother's tongue), Pashto, Urdo,
+  ,English , some Dutch and French.
 - Why did you want to study web development with HYF?
 
-  - She is from Afghanistan , a men-dominated country where almost all professions ,including IT, run by men and women suffer a lot to study and work outside home.
-  - When she was back home she took the initiative to motivate young girls including her younger sister in school classes to join the IT field. She was happy to see the result of her efforts as one of the school girls whom she inspired to join IT replaced her last position after attending college in IT field.
-  - She has the curiosity to work in the IT sector with out any interference. Hence, she believes Hack Your Future Belgium is her path to her dream profession,i.e. IT, and joined HYF to get her dream profession.
-  - She also want to upgrade her IT skill to European standard and to the level the IT job market in Belgium requires.
+  - She is from Afghanistan , a men-dominated country where almost all professions,
+    including IT, run by men and women suffer a lot to study and work outside home.
+  - When she was back home she took the initiative to motivate young girls including
+    her younger sister in school classes to join the IT field. She was happy to
+    see the result of her efforts as one of the school girls whom she inspired
+    to join IT replaced her last position after attending college in IT field.
+  - She has the curiosity to work in the IT sector with out any interference.
+    Hence, she believes Hack Your Future Belgium is her path to her dream profession
+    ,i.e. IT, and joined HYF to get her dream profession.
+  - She also want to upgrade her IT skill to European standard and to the level
+    the IT job market in Belgium requires.
 
 - Do you have any interests outside of your study at HYF
 
-  - She loves cooking both traditional Aghani dishes and other western foods like pizza, pasta etc and of course to eat what she cooks. She has also other hobbies like reading books, watching moves etc.
+  - She loves cooking both traditional Afghani dishes and other western foods
+    like pizza, pasta etc and of course to eat what she cooks. She has also
+    other hobbies like reading books, watching moves etc.
 
 - Tell me about your programming skills?
 
-  - She has a working skill in HTML, CSS, Javascript, Nodejs, Github, UX/UI design. She is also working on a self-taught UI design projects using Figma.
+  - She has a working skill in HTML, CSS, Javascript, Nodejs, Github, UX/UI
+    design. She is also working on a self-taught UI design projects using Figma.
 
 - Tell me what a normal day at work is like for you?
-  - A normal day for her is, have a plan for the day and try her best to finish the priorities and urgent works, prepare a report for that day and plan again for tomorrow.
+  - A normal day for her is, have a plan for the day and try her best to finish
+   the priorities and urgent works, prepare a report for that day and plan again
+    for tomorrow.
 - What do you enjoy most about your work?
 
   - She enjoys solving problems
@@ -76,14 +87,21 @@
 - What do you enjoy least about your work?
   - She hates when people interfere in her jobs.
 - How many projects have you worked on?
-  - She was participating in many projects. She was part of a project by the Afgan ministry of communication in preparing a guideline for online child protection policy which secures Afgan parents and children when they browse the internet.
+  - She was participating in many projects. She was part of a project by
+   the Afghan ministry of communication in preparing a guideline for online
+   child protection policy which secures Afghan parents and children when they
+   browse the internet.
 - What are the projects that you are most proud of?
-  - She is most proud of the project for preparing the guideline for online child protection policy that she contributed a lot.
+  - She is most proud of the project for preparing the guideline for online
+    child protection policy that she contributed a lot.
 - What would be your ideal next project?
-  - She has no specific plan in mind for now but she aspires to design a platform and an online IT course for women with limited access to education and for those women who has a passion for IT but can't get due to many factors.
+  - She has no specific plan in mind for now but she aspires to design a platform
+   and an online IT course for women with limited access to education and for
+    those women who has a passion for IT but can't get due to many factors.
 - What do you want to achieve in the next year?
   - This time next year , she will be graduated from HYF.
-  - She wants to do her masters in UX/UI design area,get a job as a UX designer in a company and improve her Dutch language level.
+  - She wants to do her masters in UX/UI design area,get a job as a UX designer
+   in a company and improve her Dutch language level.
 
 <!--
   Take a few minutes getting to know your partner and their ambitions. Ask questions about:
@@ -102,9 +120,16 @@
 
 ### Summary
 
-Tahmina came from Afganistan and she has a good IT background as she was part of a lot of projects in the government offices, NGOs and private sectors in her home country Afghanistan. She used to work in IT related working environment . After she came to Belgium , she wants to continue her career as a UX/UI designer and hence joined the Hack Your Future program. She is also attending a Dutch and French language classes to better integrate with the society.
-For the time being, she is focusing on her web design and language classes.For the upcoming years,
-she has the plan to do her masters in UX/UI design and get her dream work as a UX/UI designer.
+Tahmina came from Afganistan and she has a good IT background as she was part
+ of a lot of projects in the government offices, NGOs and private sectors in
+ her home country Afghanistan. She used to work in IT related working
+ environment. After she came to Belgium , she wants to continue her career
+  as a UX/UI designer and hence joined the Hack Your Future program. She is
+  also attending a Dutch and French language classes to better integrate with
+  the society.For the time being, she is focusing on her web design and language
+  classes.For the upcoming years,
+she has the plan to do her masters in UX/UI design and get her dream work
+as a UX/UI designer.
 
 <!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
 
@@ -115,12 +140,6 @@ she has the plan to do her masters in UX/UI design and get her dream work as a U
 <!--
   In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
 -->
-
-### Notes
-
-### Summary
-
----
 
 ## 3. Capture Findings
 
@@ -161,18 +180,12 @@ she has the plan to do her masters in UX/UI design and get her dream work as a U
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name]()
+- [wireframe name](homepage-wireframe.png)
 - ...
 
 ---
 
 ## 6. Partner Feedback
-
-<!-- Discuss your ideas with your partner. lots of `why?`. -->
-
-### Notes
-
-### Summary
 
 ---
 
@@ -195,10 +208,6 @@ she has the plan to do her masters in UX/UI design and get her dream work as a U
 
   After you've finished the Plan & Design ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
 -->
-
-### Notes
-
-### Summary
 
 ---
 
