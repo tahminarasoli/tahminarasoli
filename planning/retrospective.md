@@ -40,13 +40,12 @@
 
 ### What parts of your plan did not work out?
 
-- The documentation and planning part takes a lot of time. Especially for group of one. 
+- The documentation and planning part takes a lot of time. Especially for
+  group of one.
 
 ### Did you need to add things that weren't in your strategy?
 
-- Although the development strategy is not completed yet but it is efficient enough. 
+- Although the development strategy is not completed yet but it is efficient enough.
 - It will be updated accordingly
 
 ### Or remove extra steps?
-
-
