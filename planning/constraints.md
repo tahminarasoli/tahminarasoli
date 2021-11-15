@@ -12,12 +12,12 @@ Some boundaries around our project.
 -->
 
 - project dead lines:
-  - home page /Planning: 13-11-2021;
-  - home page /implementation : 20-11-2021
+  - [ ] home page /Planning: 13-11-2021;
+  - [ ] home page /implementation : 20-11-2021
 - UI design or color schemes
-  - make a simple design 
-  - wireframe: 11-11-2021
-  - UI design: 12-11-2021
+  - [ ] make a simple design 
+  - [ ] wireframe: 11-11-2021
+  - [ ] UI design: 12-11-2021
 
 ## Internal: Involuntary
 
