@@ -4,6 +4,6 @@
 ![wireframe](/planning/portfolio-wireframe.png)
 ![landingpage](/planning/landingpage.png)
 ![about](/planning/about.png)
-![project](/planning/proejcts.png)
-![landingpage](/planning/contactme.png)
+![projects](/planning/projects.png)
+![contactme](/planning/contactme.png)
 
